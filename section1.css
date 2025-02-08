@@ -1,0 +1,242 @@
+.flex {
+    margin-left: 40px;
+    margin-top: 100px;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.flex1 h1 {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 80px;
+    margin-left: 630px;
+}
+
+.flex2 {
+    display: flex;
+    gap: 10px;
+}
+
+
+.flex3 {
+    width: 435px;
+    height: 894px;
+    border-radius: 10px;
+    background: rgb(245, 245, 245);
+}
+
+.flex3 img {
+    margin-left: 20px;
+}
+
+.flex3 h4 {
+    color: rgb(38, 50, 56);
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.flex3 p {
+    color: rgb(143, 149, 165);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.flex3_btn {
+    width: 230px;
+    height: 60px;
+    border-radius: 5px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.flex3_btn:hover {
+    background-color: rgba(38, 50, 56, 0.881);
+    color: white;
+}
+
+.flex5 {
+    display: flex;
+    gap: 10px;
+}
+
+.flex6 {
+    width: 434px;
+    height: 531px;
+    border-radius: 10px;
+    background: rgb(245, 245, 245);
+}
+
+.flex6 img {
+    margin-left: 70px;
+}
+
+.flex6 h1 {
+    color: rgb(38, 50, 56);
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.flex6_btn {
+    width: 218px;
+    height: 60px;
+    border-radius: 5px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.flex6_btn:hover {
+    background-color: rgba(38, 50, 56, 0.881);
+    color: white;
+}
+
+.flex7 {
+    width: 434px;
+    height: 531px;
+    border-radius: 10px;
+    background: rgb(245, 245, 245);
+}
+
+.flex7 img {
+    margin-left: 25px;
+}
+
+.flex7 h1 {
+    color: rgb(38, 50, 56);
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: -4px;
+    margin-left: 40px;
+}
+
+.flex7 p {
+    color: rgb(143, 149, 165);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: -15px;
+    margin-left: 40px;
+}
+
+.flex7_btn {
+    width: 218px;
+    height: 60px;
+    border-radius: 5px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.flex7_btn:hover {
+    background-color: rgba(38, 50, 56, 0.881);
+    color: white;
+}
+
+.flex8 {
+    width: 885px;
+    height: 343px;
+    border-radius: 10px;
+    background: rgb(245, 245, 245);
+    margin-top: 20px;
+    display: flex;
+}
+
+.flex9 {
+    margin-left: 40px;
+}
+
+.flex9 h2 {
+    color: rgb(38, 50, 56);
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.flex9 p {
+    color: rgb(143, 149, 165);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: -10px;
+}
+
+.flex9_btn {
+    width: 218px;
+    height: 60px;
+    border-radius: 5px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.flex9_btn:hover {
+    background-color: rgba(38, 50, 56, 0.881);
+    color: white;
+}
+
+.flex10 {
+    margin-left: 100px;
+    margin-top: 30px;
+}

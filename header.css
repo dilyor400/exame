@@ -1,0 +1,52 @@
+.boxes{
+    margin-left: 40px;
+    margin-top: 100px;
+    display: flex;
+}
+
+.box h1 {
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.box p {
+    color: rgb(143, 149, 165);
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.box_btn {
+    width: 438px;
+    height: 118px;
+    border-radius: 15px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 54px;
+    letter-spacing: 0%;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+.box_btn:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(38, 50, 56);
+    border: 3px solid rgb(38, 50, 56);
+}
+
+.box1{
+    margin-left: 200px;
+    margin-top: -40px;
+}

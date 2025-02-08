@@ -1,0 +1,76 @@
+.test {
+    margin-top: 100px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.test1 img {
+    margin-left: 40px;
+}
+
+.test2 {
+    margin-left: 40px;
+    margin-top: 90px;
+}
+
+.test2 h1 {
+    color: rgb(38, 50, 56);
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.test2 p {
+    color: rgb(143, 149, 165);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.test3 {
+    display: flex;
+    gap: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.test3 input {
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+    background: rgb(245, 245, 245);
+    border: none;
+    padding-left: 10px;
+}
+
+.test3_btn {
+    width: 218px;
+    height: 60px;
+    border-radius: 5px;
+    background: rgb(38, 50, 56);
+    color: rgb(255, 255, 255);
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.hr {
+    margin-top: 100px;
+    width: 1338px;
+    height: 1px;
+    background: rgb(196, 196, 196);
+    border: 1px;
+}
