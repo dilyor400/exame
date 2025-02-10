@@ -29,7 +29,16 @@
   }
   .skills-button1 {
     margin-top: 66px;
+    &:hover{
+      background-color: #f5f5f5;
+      color: #263238;
+      border: 1px solid black;
+    }
   }
+
+  
+
+
   .number1 {
     gap: 40px;
     display: grid;
